@@ -1,6 +1,6 @@
-## 👨‍💻 Mohammed Alhazmi - محمد الهزمي
+## 👨‍💻 Mohammed Ahmed Ahmed Salah Al-Hazmi - محمد أحمد أحمد صلاح الهزمي
 
-### 💼 Junior Software Developer | Backend Enthusiast
+### 💼 Junior Software Developer | Software Engineer in Progress
 
 ---
 
