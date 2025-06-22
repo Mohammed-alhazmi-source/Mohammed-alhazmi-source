@@ -28,7 +28,7 @@
 
 #### 1. 💳 **Bank Management System**  
 > **EN:** A console-based system simulating real bank operations using OOP in C++. Features include user roles, account management, secure operations, and persistent file storage.  
-> **AR:** نظام متكامل لمحاكاة عمل البنك على الشاشة السوداء باستخدام C++ والبرمجة الكائنية. يشمل إدارة الحسابات، المستخدمين، الصلاحيات، والتخزين في الملفات.
+> **AR:** والبرمجة الكائنية. يشمل إدارة الحسابات، المستخدمين، الصلاحيات، والتخزين في الملفات C++ نظام متكامل لمحاكاة عمل البنك على الشاشة السوداء باستخدام 
 
 #### 2. 📦 **Stack & Queue System (Manual Memory)**  
 > **EN:** Implemented custom stack and queue structures using pointers and manual memory management to master data structures and deep copy concepts.  
