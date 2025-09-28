@@ -43,12 +43,12 @@
 ### 🎯 Goals | أهدافي القادمة
 
 **EN:**
-- Become a senior-level backend developer
+- Become a senior-level FULL Stack Developer
 - Master advanced system design and architecture
 - Build high-performance real-world applications
 
 **AR:**
-- الوصول إلى مستوى مبرمج Backend محترف (Senior)
+- الوصول إلى مستوى مبرمج محترف (Senior)
 - إتقان تصميم الأنظمة المتقدمة (System Design)
 - تطوير تطبيقات واقعية عالية الأداء ومفتوحة المصدر
 
