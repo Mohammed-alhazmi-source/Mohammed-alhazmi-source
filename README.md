@@ -56,21 +56,21 @@
 **AR:**
 >  نظام متخصص لإدارة تأجير المركبات، تتبع الحجوزات، وحساب التكاليف تلقائياً باستخدام معمارية الطبقات الثلاث.
 
-5. 🏥 Clinic Appointment Management Simulation
+#### 5. 🏥 Clinic Appointment Management Simulation
 **EN:**
 > A simulation for medical clinics focusing on appointment lifecycles, medical records integration, and Windows Event Logging.
 
 **AR:**
 > محاكاة لنظام إدارة العيادات، يركز على دورة حياة المواعيد، ربط السجلات الطبية، وتدوين أحداث النظام في Windows Event Viewer.
 
-7. 🪪 Driving & Vehicle Licensing (DVLD) Simulation
+#### 6. 🪪 Driving & Vehicle Licensing (DVLD) Simulation
 **EN:**
 > A large-scale system simulating the complex processes of issuing, renewing, and testing for driver licenses with strict business rules.
 
 **AR:**
 >  نظام ضخم يحاكي العمليات المعقدة لإصدار وتجديد واختبار رخص القيادة مع تطبيق قواعد عمل (Business Rules) صارمة.
 
-9. 🍔 Restaurant Point of Sale (POS) System [In Progress]
+#### 7. 🍔 Restaurant Point of Sale (POS) System [In Progress]
 **EN:**
 > Currently developing a robust POS system to manage restaurant orders and billing efficiency.
 
